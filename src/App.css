@@ -1,0 +1,12 @@
+.menu-list{
+   position: absolute ;
+   border: 1px solid black;
+   background-color: black;
+   color: white;
+}
+
+.menu-bar{
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
